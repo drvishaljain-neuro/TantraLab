@@ -3,7 +3,7 @@ logo: assets/images/logo.png
 theme: minima
 show_downloads: false
 navigation:
-  - Home: /
+  - Home: /index
   - People: /people
   - Research: /research
   - Publications: /publications
