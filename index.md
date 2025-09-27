@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="TantraLab Logo" style="height:2048px;">
+  <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="TantraLab Logo" style="height:720px;">
 </p>
 
 # Welcome to TantraLab
