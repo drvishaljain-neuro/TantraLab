@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<p align="left">
+<p align="center">
   <img src="/assets/images/logo.png" alt="TantraLab Logo" style="max-width:350px;">
 </p>
 
