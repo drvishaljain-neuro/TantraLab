@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+permalink: /about/
 ---
 # Welcome to TantraLab
 <p align="justify">
