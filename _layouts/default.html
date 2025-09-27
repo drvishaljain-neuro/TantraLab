@@ -7,6 +7,13 @@
   </head>
   <body>
     {% include header.html %}
+    <nav style="background: #f5f5f5; padding: 12px 24px; margin-bottom: 20px;">
+      <a href="{{ '/' | relative_url }}" style="margin-right: 16px;">Home</a>
+      <a href="{{ '/people/' | relative_url }}" style="margin-right: 16px;">People</a>
+      <a href="{{ '/research/' | relative_url }}" style="margin-right: 16px;">Research</a>
+      <a href="{{ '/publications/' | relative_url }}" style="margin-right: 16px;">Publications</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
     <main>
       {{ content }}
     </main>
