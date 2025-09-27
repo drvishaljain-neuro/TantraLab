@@ -2,8 +2,6 @@
 layout: default
 title: "About"
 ---
-<p align="center">
-  <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="TantraLab Logo" style="height:350px;">
 </p>
 
 # Welcome to TantraLab
