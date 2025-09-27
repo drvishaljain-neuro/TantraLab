@@ -1,10 +1,4 @@
 title: TantraLab
 logo: assets/images/logo.png
 theme: minima
-show_downloads: true
-navigation:
-  - Home: /index
-  - People: /people
-  - Research: /research
-  - Publications: /publications
-  - Contact: /contact
+show_downloads: false
